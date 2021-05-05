@@ -1,0 +1,13 @@
+.yellowSquare {
+    width: 60px;
+    height: 60px;
+    margin: 90px;
+    background-color:yellow;
+    border: 3px solid pink;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
